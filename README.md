@@ -12,7 +12,3 @@ This program implements custom shell commands (word, dir, and date) along with c
 **Makefile Targets**
 - `build`: Compiles the source.c program into an executable.
 - `clean`: Removes the compiled executable.
-
-**Contributors**
-- Anushka Korlapati
-- Vikranth Udandarao
